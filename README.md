@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucius911
+- 👋 Hi, I’m Simon
 - 👀 I’m interested in JavaScript, C#, SQL and any frontend frameworks using JS
 - 🌱 I’m currently learning Dynamics 365 Development
 - 💞️ I’m looking to collaborate on any opensource projects that need it! 
